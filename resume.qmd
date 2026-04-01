@@ -7,7 +7,6 @@ Software Engineering student at Brigham Young University-Idaho | Data Science Mi
 
 <div id="webaddress">
 <a href="mor24120@byui.edu">mor24120@byui.edu</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 | <a href="MoralesResume.pdf">Download Resume PDF</a>
 </div>
 
