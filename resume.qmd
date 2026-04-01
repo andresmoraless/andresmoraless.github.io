@@ -2,90 +2,64 @@
 layout: cv
 title: Andy Morales' Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andy Morales
+Software Engineering student at Brigham Young University-Idaho | Data Science Minor
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="mor24120@byui.edu">mor24120@byui.edu</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+| <a href="MoralesResume.pdf">Download Resume PDF</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Student at Brigham Young University-Idaho, majoring in Software Engineering with a minor in Data Science. Expected graduation date: April 2028. 
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+- Software development
+- Machine learning
+- Artificial intelligence
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Machine learning
+- Data analysis
+- Software engineering for real-world applications
+- User experience design
+- Productivity-focused systems.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2025 - 2028`
+__Brigham Young University - Idaho.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Projects
 
-- Sizar
+### Momentum App
+A productivity and goal-tracking iOS app built in SwiftUI with a dashboard, scheduling views, and weekly/monthly progress tracking.
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Portfolio Website
+Designed and developed a personal portfolio website showcasing software, data, and web development projects.
 
-- Fellow
+### Data Analysis Projects
+Built multiple Python-based projects involving data cleaning, visualization, and exploratory analysis using real datasets.
 
+## Technical Skills
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- **Languages:** Python, JavaScript, HTML/CSS, SQL
+- **Tools:** Git/GitHub, Excel, Tableau, VS Code
+- **Concepts:** Data analysis, data visualization, software development, version control
 
 
+## Leadership & Experience
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Worldwide Online Scheduling and Hiring Assistant at BYU-Pathway Worldwide
+- Full-time Representative in Veracruz, Mexico
+- Experience leading teams, training volunteers, and improving processes
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2026 -->
